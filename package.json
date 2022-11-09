@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-	"build": "webpack --mode development",
+    "build": "webpack --mode development",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -22,7 +22,10 @@
     "@ckeditor/ckeditor5-dev-utils": "^31.0.0",
     "@ckeditor/ckeditor5-editor-classic": "^31.0.0",
     "@ckeditor/ckeditor5-essentials": "^31.0.0",
+    "@ckeditor/ckeditor5-html-support": "^31.0.0",
+    "@ckeditor/ckeditor5-image": "^31.0.0",
     "@ckeditor/ckeditor5-paragraph": "^31.0.0",
+    "@ckeditor/ckeditor5-source-editing": "^31.0.0",
     "@ckeditor/ckeditor5-theme-lark": "^31.0.0",
     "css-loader": "^5.2.7",
     "postcss-loader": "^4.3.0",
